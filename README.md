@@ -28,6 +28,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=muabas&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muabas&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=muabas)
+
 ---
 
 #### Currently Playing 🎧
