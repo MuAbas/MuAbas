@@ -1,11 +1,16 @@
 # Hi there 👋, I'm Muhammed <a href="https://linkedin.com/in/muhammedabbas" target="blank"> <img style="margin-left:3em;" src="https://svgshare.com/i/Ugu.svg" alt="muhammedabbas" height="20" width="20" /></a>
 
-### I'm a CSE Student at [Akdeniz University][akdeniz]
-#### I’m currently working on Android apps
+### I'm a senior CSE student at [Akdeniz University][akdeniz]
 
 ---
 
-#### Languages and Tools 🛠
+#### Check out my Android app Forex Alerts!
+
+[![Forex Alerts](https://svgshare.com/i/UzV.svg)](https://play.google.com/store/apps/details?id=mobas.forex.alerts)
+
+---
+
+#### Languages and Tools That I Use 🛠
 
 ![Java](https://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Android](https://img.shields.io/badge/-Android%20Studio-a4c639?style=flat-square&logo=android-studio&logoColor=ffffff)
@@ -23,7 +28,7 @@
 
 ---
 
-#### Github Stats 📈
+#### My Github Stats 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=muabas&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muabas&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
@@ -38,3 +43,4 @@
 ![Spotify](https://novatorem-muabas.vercel.app/api/spotify)
 
 [akdeniz]: http://cse.akdeniz.edu.tr/
+[forex]: https://play.google.com/store/apps/details?id=mobas.forex.alerts
