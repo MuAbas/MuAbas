@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammed <a href="https://linkedin.com/in/muhammedabbas" target="blank"> <img style="margin-left:3em;" src="https://svgshare.com/i/Ugu.svg" alt="muhammedabbas" height="20" width="20" /></a>
 
-### I'm a senior CSE student at [Akdeniz University][akdeniz]
+### I'm an [Akdeniz University][akdeniz] CSE Graduate
 
 ---
 
