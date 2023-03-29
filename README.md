@@ -38,9 +38,5 @@
 
 ---
 
-#### Currently Playing 🎧
-
-![Spotify](https://novatorem-muabas.vercel.app/api/spotify)
-
 [akdeniz]: http://cse.akdeniz.edu.tr/
 [forex]: https://play.google.com/store/apps/details?id=mobas.forex.alerts
